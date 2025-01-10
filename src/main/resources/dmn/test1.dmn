@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<definitions xmlns="https://www.omg.org/spec/DMN/20230324/MODEL/" expressionLanguage="https://www.omg.org/spec/DMN/20230324/FEEL/" namespace="https://kie.org/dmn/_CFC7BC12-48D0-4F0A-879C-3DB98D5B62A6" id="_3DD4D69E-3FF0-4DB0-99DE-17BB7A6C1418" name="DMN_2BD86E33-408A-41E8-BFBD-6E7D0CE12F27" xmlns:dmndi="https://www.omg.org/spec/DMN/20230324/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="https://kie.org/dmn/extensions/1.0">
+<definitions xmlns="https://www.omg.org/spec/DMN/20230324/MODEL/" xmlns:dmndi="https://www.omg.org/spec/DMN/20230324/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="https://kie.org/dmn/extensions/1.0" expressionLanguage="https://www.omg.org/spec/DMN/20230324/FEEL/" namespace="https://kie.org/dmn/_CFC7BC12-48D0-4F0A-879C-3DB98D5B62A6" id="_3DD4D69E-3FF0-4DB0-99DE-17BB7A6C1418" name="DMN_2BD86E33-408A-41E8-BFBD-6E7D0CE12F27">
   <itemDefinition id="_622136CF-7E28-4E8D-8815-80E969B682B0" name="input1" isCollection="false" typeLanguage="https://www.omg.org/spec/DMN/20230324/FEEL/">
     <typeRef>boolean</typeRef>
   </itemDefinition>
@@ -35,17 +35,6 @@
           <text>=false</text>
         </inputEntry>
         <outputEntry id="_8AD7FA00-E1C5-45D1-AE31-6E694F7A4A04">
-          <text>false</text>
-        </outputEntry>
-        <annotationEntry>
-          <text></text>
-        </annotationEntry>
-      </rule>
-      <rule id="_55D7557A-5522-4E05-93DB-E99ACB8304C9">
-        <inputEntry id="_7C59580C-C401-4D53-ADBA-0CC0650F864D">
-          <text>-</text>
-        </inputEntry>
-        <outputEntry id="_EB6E9A64-E19F-4067-AAA2-A07C9537DDF4">
           <text>false</text>
         </outputEntry>
         <annotationEntry>
